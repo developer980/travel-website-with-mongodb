@@ -18,11 +18,11 @@
 
 ## Note! 
 
-### - The private destinations (rented appartements) might not appear on the map as the google maps API doesn't have enough data about them. I'm stiil figuring a way to fix this.
+ - The private destinations (rented appartements) might not appear on the map as the google maps API doesn't have enough data about them. I'm stiil figuring a way to fix this.
 
-### - The "Guests" field and the filter section are not functional yet.
+ - The "Guests" field and the filter section are not functional yet.
 
-### - Right now the scrapping functions only work on the local environment. I might switch to Puppeteer from Cheerio which will allow the app to scrape data dynamically loaded on the page.
+ - Right now the scrapping functions only work on the local environment. I might switch to Puppeteer from Cheerio which will allow the app to scrape data dynamically loaded on the page.
 
 ![image](https://user-images.githubusercontent.com/91996303/222156757-b73c1bee-6e9a-4e45-ad9f-8be771ae75ad.png)
 
