@@ -1,4 +1,4 @@
-# travel-website-with-mongodb
+# travel-website-with-mongodb (working on some issues currently)
 
 ## The model of a booking web application which uses Cheerio to scrape hotels data from two websites and return it based on the user's preferences
 
